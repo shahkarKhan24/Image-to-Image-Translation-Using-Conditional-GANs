@@ -22,3 +22,6 @@
   <p>Input Image</p>
 <img src="https://github.com/shahkarKhan24/Image-to-Image-Translation-Using-Conditional-GANs/blob/main/Images/Input.png?raw=true" width="700" alt="Generated images"/>
 </div>
+
+
+<p>If you want to run the file make sure to edit load checkpoint = FALSE, and train it from scratch. In case you need the trained weights whose size is more than 1GB (that why i didn't upload it), please feel free to reach out :)</p>
