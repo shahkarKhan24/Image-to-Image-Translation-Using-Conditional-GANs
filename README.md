@@ -1,4 +1,4 @@
-<h3> Image-to-Image-Translation-Using-Conditional-GANs <a href= "https://colab.research.google.com/github/shahkarKhan24/Image-to-Image-Translation-Using-Conditional-GANs/blob/main/Image_to_Image_Translation.ipynb?authuser=1">   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+<h3> Image-to-Image-Translation-Using-Conditional-GANs <a href= "https://colab.research.google.com/github/shahkarKhan24/Image-to-Image-Translation-Using-Conditional-GANs/blob/main/Image_to_Image_Translation.ipynb?authuser=1">   <img src="https://colab.research.google.com/assets/colab-badge.svg" width="200" alt="Open In Colab"/>
 </h3>
 
 <p>Here we are trying to use conditional adversarial networks to solve the general purpose solution of the image-to-image translation. This network can be used for the segmentation, coloring, or styling of an image given the dataset. Here we are trying to convert satellite images into Google map type images.</p>
